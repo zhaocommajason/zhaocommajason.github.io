@@ -11,18 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Quantitative Marketing, Northwestern University Kellogg School of Management, 2025
+  * Advisors: Brett Gordon and Anna Tuchman
+* M.S. Marketing, Northwestern University Kellogg School of Management, 2021
+* B.A. Economics, University of Chicago, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025 to Present: Assistant Professor of Management (Marketing)
+  * Purdue University Mitch Daniels School of Business
 
-* Fall 2015: Research Assistant
+
+<!-- * Fall 2015: Research Assistant
   * GitHub University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
@@ -61,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
