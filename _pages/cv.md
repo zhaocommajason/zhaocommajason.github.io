@@ -22,6 +22,15 @@ Work experience
   * Purdue University Mitch Daniels School of Business
 
 
+Working Papers
+======
+* "Limited Consideration and Physician Gifts," 2026. R&R at Journal of Marketing Research.
+* "Product Positioning and Polarization in the Demand for Local News," 2026.
+
+Work in Progress
+======
+* "Competition in Embedding Space: Implications for Copyright and Technology Adoption," with Samuel Goldberg and H. Tai Lam.
+
 Fellowships & Awards
 ======
 * ISMS Early Career Camp Fellow, 2025
