@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Home"
+title                    : "Jason Zhao"
 title_separator          : "-"
 name                     : &name "Jason Zhao"
 description              : &description "Assistant Professor of Marketing, Purdue University Mitch Daniels School of Business"
@@ -128,7 +128,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : "FJ_-ZUCbDYqA1iAGBDyIwR0cJKl_yNHLrjtqv3MnKWo"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -141,14 +141,15 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 : "headshot_square.jpg"
+og_description           : "Assistant Professor of Marketing at Purdue University Mitch Daniels School of Business. Research in media economics, behavioral IO, and quantitative marketing."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : Jason Zhao
+  links:
+    - "https://scholar.google.com/citations?hl=en&user=Q2M6u-MAAAAJ"
 
 
 # Analytics
