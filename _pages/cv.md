@@ -22,6 +22,34 @@ Work experience
   * Purdue University Mitch Daniels School of Business
 
 
+Fellowships & Awards
+======
+* ISMS Early Career Camp Fellow, 2025
+* AMA Sheth Doctoral Fellow, 2024
+* KGSM Fellowship, Northwestern University, 2019
+
+Conference Presentations
+======
+* Marketing Science, 2026
+* BSE Summer Forum Workshop on Quantitative Marketing, 2026
+* European Marketing Association Conference, 2026
+* Trans-Atlantic Doctoral Consortium (LBS), 2022
+
+Teaching Experience
+======
+* Instructor, Purdue University
+  * Marketing Management (Undergraduate), 2026
+* Teaching Assistant, Northwestern University
+  * Quantitative Marketing: Structural Modeling (PhD), 2022–2024
+  * Marketing Strategy (MBA), 2020–2023
+  * Strategic Marketing Decisions (EMBA), 2020–2023
+  * Driving Growth Through Innovation (Executive Education), 2020–2023
+  * Retail Analytics (MBA), 2020–2022
+
+Professional Service
+======
+* Ad Hoc Reviewer, Journal of Marketing Research
+
 <!-- * Fall 2015: Research Assistant
   * GitHub University
   * Duties included: Merging pull requests

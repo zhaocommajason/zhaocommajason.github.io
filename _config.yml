@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "jason-zhao-586635b2"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -150,6 +150,7 @@ social:
   name                   : Jason Zhao
   links:
     - "https://scholar.google.com/citations?hl=en&user=Q2M6u-MAAAAJ"
+    - "https://www.linkedin.com/in/jason-zhao-586635b2"
 
 
 # Analytics
